@@ -101,7 +101,9 @@ export default function Home() {
           </a>
         </div>
         <a 
-          href="/blog" 
+          href="https://rassimdou.github.io/blog/"
+          target="_blank"
+          rel="noreferrer"
           className="text-xs md:text-sm font-medium text-yellow-400 hover:text-yellow-300 transition-colors border border-yellow-500/30 hover:border-yellow-400 px-4 py-2 rounded-full bg-yellow-500/5 hover:bg-yellow-500/10 flex items-center gap-2"
         >
           <FaShieldAlt size={12} />
@@ -134,7 +136,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-yellow-500/20 blur-2xl rounded-full scale-150 animate-pulse"></div>
               <div className="w-28 h-28 md:w-32 md:h-32 rounded-full overflow-hidden border-2 border-white/10 shadow-[0_0_30px_rgba(250,204,21,0.2)] relative z-10">
                 <Image 
-                  src="https://avatars.githubusercontent.com/u/162766373?v=4" 
+                  src="/profile.png" 
                   alt="Rassim Douaouria"
                   fill
                   className="object-cover"
@@ -328,7 +330,7 @@ export default function Home() {
               Today, I blend these two disciplines. I build robust APIs, caching layers, and microservices using <strong className="text-yellow-400">Golang, TypeScript, and Python</strong>. At the same time, I actively engage in web penetration testing, creating tools like custom honeypots and automated vulnerability scanners to understand the offensive perspective.
             </p>
             <p>
-              When I&apos;m not writing code or analyzing a network packet, I&apos;m usually reading up on the latest vulnerabilities, participating in CTFs, or documenting my findings on my <a href="/blog" className="text-yellow-400 hover:underline">cybersecurity blog</a>.
+              When I&apos;m not writing code or analyzing a network packet, I&apos;m usually reading up on the latest vulnerabilities, participating in CTFs, or documenting my findings on my <a href="https://rassimdou.github.io/blog/" target="_blank" rel="noreferrer" className="text-yellow-400 hover:underline">cybersecurity blog</a>.
             </p>
           </div>
         </motion.section>
@@ -373,4 +375,3 @@ export default function Home() {
     </div>
   );
 }
-
