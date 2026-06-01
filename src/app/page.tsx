@@ -11,14 +11,14 @@ const projects = [
     description: "High-performance caching proxy featuring LRU eviction, request coalescing, and TTL management to reduce backend load and speed up responses.",
     tech: ["TypeScript", "Caching", "Proxy"],
     github: "https://github.com/Rassimdou/SmartCaching-Proxy-",
-    image: "https://opengraph.githubassets.com/1/Rassimdou/SmartCaching-Proxy-"
+    image: "https://socialify.git.ci/Rassimdou/SmartCaching-Proxy-/image?theme=Dark&font=Inter&language=1&owner=1&name=1&pattern=Solid"
   },
   {
     name: "File Integrity Monitor",
     description: "A robust security tool (FIM) that monitors and detects unauthorized changes to files and directories to ensure system integrity.",
     tech: ["Go", "Security", "Monitoring"],
     github: "https://github.com/Rassimdou/FIM",
-    image: "https://opengraph.githubassets.com/1/Rassimdou/FIM"
+    image: "https://socialify.git.ci/Rassimdou/FIM/image?theme=Dark&font=Inter&language=1&owner=1&name=1&pattern=Solid"
   },
   {
     name: "SquareTech Services",
@@ -32,7 +32,7 @@ const projects = [
     description: "A fast and efficient URL shortening service built with Go and the Fiber framework, ensuring high throughput and low latency.",
     tech: ["Go", "Fiber", "Backend"],
     github: "https://github.com/Rassimdou/URL-Shortener",
-    image: "https://opengraph.githubassets.com/1/Rassimdou/URL-Shortener"
+    image: "https://socialify.git.ci/Rassimdou/URL-Shortener/image?theme=Dark&font=Inter&language=1&owner=1&name=1&pattern=Solid"
   },
   {
     name: "Chat App",
@@ -40,7 +40,7 @@ const projects = [
     tech: ["JavaScript", "Node.js", "React"],
     github: "https://github.com/Rassimdou/chat-app",
     link: "https://chat-app-three-kappa-37.vercel.app/",
-    image: "https://opengraph.githubassets.com/1/Rassimdou/chat-app"
+    image: "https://socialify.git.ci/Rassimdou/chat-app/image?theme=Dark&font=Inter&language=1&owner=1&name=1&pattern=Solid"
   },
   {
     name: "Laptop Store",
